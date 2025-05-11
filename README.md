@@ -28,8 +28,8 @@ intelligent_email_writer/
 ### 1. Kloning Repositori
 
 ```bash
-git clone https://github.com/username/intelligent_email_writer.git
-cd intelligent_email_writer
+git clone [https://github.com/username/intelligent_email_writer.git](https://github.com/alfizamriza/UAS_AlfiZamriza_2208107010080.git)
+cd UAS_AlfiZamriza_2208107010080
 ```
 
 ### 2. Siapkan dan Jalankan Backend (FastAPI)
