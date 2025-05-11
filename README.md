@@ -28,7 +28,7 @@ intelligent_email_writer/
 ### 1. Kloning Repositori
 
 ```bash
-git clone [https://github.com/username/intelligent_email_writer.git](https://github.com/alfizamriza/UAS_AlfiZamriza_2208107010080.git)
+git clone https://github.com/username/intelligent_email_writer.git
 cd UAS_AlfiZamriza_2208107010080
 ```
 
