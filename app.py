@@ -43,7 +43,7 @@ with st.sidebar:
     st.divider()
     
     st.markdown("**Developed by:**")
-    st.markdown("Alfi | [GitHub](https://github.com/username)")
+    st.markdown("Alfi Zamriza | [GitHub](https://github.com/alfizamriza)")
 
 # Create a form for email generation
 with st.form("email_form"):
